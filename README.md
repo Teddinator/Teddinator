@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # Hej, jag är Theodor 👋
 
 ## 🔥 Streak
@@ -8,4 +5,6 @@
 
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DITTANVÄNDARNAMN&show_icons=true&theme=dark)
+<!--
+
 -->
